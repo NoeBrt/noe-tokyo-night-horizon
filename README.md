@@ -21,6 +21,7 @@
 
 Download font ![here](https://www.jetbrains.com/lp/mono/)
 
+copy these lines in ```settings.json```
 ```json
 "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
 "editor.lineHeight": 22,
@@ -39,6 +40,7 @@ https://github.com/enkia/tokyo-night-vscode-theme
 
 
 ###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com. Color palettes in this README use www.placeholder.com.
+
 
 
 
