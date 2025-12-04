@@ -1,13 +1,12 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Tokyo Night Horizon",
-  "author": "Enkia",
+  "name": "Noe Tokyo Night Horizon",
+  "author": "Noe",
   "maintainers": [
-    "Enkia <enki77@gmail.com>",
-    "eternal <eternal.git@gmail.com>"
+    "Noe <noe.breton@gmail.com>"
   ],
   "type": "dark",
-  "semanticClass": "tokyo-night",
+  "semanticClass": "noe-tokyo-night",
   "colors": {
     "foreground": "#787c99",
     "descriptionForeground": "#515670",
@@ -649,3 +648,4 @@
     }
   ]
 }
+
