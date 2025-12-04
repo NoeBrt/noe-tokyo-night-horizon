@@ -1,10 +1,10 @@
 {
-	"name": "tokyo-night-horizon",
-	"displayName": "Tokyo Night Horizon",
-	"description": "A clean Visual Studio Code theme with Horizon's syntax highlighting that celebrates the lights of Downtown Tokyo at night.",
+	"name": "noe-tokyo-night-horizon",
+	"displayName": "Noe Tokyo Night Horizon",
+	"description": "A personnal reintrepretation of the Tokyo Night Horizon theme with more fix to terminal color and green comments.",
 	"version": "1.0.7",
-	"author": "Mario <me@marioparaschiv.com> (github.com/marioparaschiv)",
-	"publisher": "eternal",
+	"author": "Noe Brt <noe.breton@gmail.com>",
+	"publisher": "NoeBrt",
 	"license": "MIT",
 	"keywords": [
 		"theme",
@@ -15,13 +15,13 @@
 		"clean"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/marioparaschiv/tokyo-night-horizon",
+	"homepage": "https://github.com/NoeBrt/noe-tokyo-night-horizon",
 	"repository": {
-		"url": "https://github.com/marioparaschiv/tokyo-night-horizon",
+		"url": "https://github.com/NoeBrt/noe-tokyo-night-horizon",
 		"type": "git"
 	},
 	"bugs": {
-		"url": "https://github.com/marioparaschiv/tokyo-night-horizon/issues"
+		"url": "https://github.com/NoeBrt/noe-tokyo-night-horizon/issues"
 	},
 	"galleryBanner": {
 		"color": "#1f2335",
@@ -37,19 +37,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Tokyo Night Horizon",
+				"label": "Noe Tokyo Night Horizon",
 				"uiTheme": "vs-dark",
-				"path": "./themes/tokyo-night-horizon.json"
-			},
-			{
-				"label": "Tokyo Night Horizon (Syntax, Dark+)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/tokyo-night-horizon-dark-plus.json"
-			},
-			{
-				"label": "Tokyo Night Horizon (Syntax, Dark+ V2)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/tokyo-night-horizon-dark-plus-v2.json"
+				"path": "./themes/noe-tokyo-night-horizon.json"
 			}
 		]
 	},
