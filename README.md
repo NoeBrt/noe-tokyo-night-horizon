@@ -4,6 +4,7 @@
 [![Issues](https://img.shields.io/github/issues/marioparaschiv/tokyo-night-horizon)](https://github.com/marioparaschiv/tokyo-night-horizon/issues)
 * **Change Terminal font to not be the same than the autocompletion font color**
 *  **Change comment color to green**
+*  Use Jetbrain Mono Song
   
 ## Screenshots
 
@@ -40,6 +41,7 @@ https://github.com/enkia/tokyo-night-vscode-theme
 
 
 ###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com. Color palettes in this README use www.placeholder.com.
+
 
 
 
